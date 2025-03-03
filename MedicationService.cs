@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Class1
+public class MedicationService : IMedicationService()
 {
 	public Class1()
 	{
